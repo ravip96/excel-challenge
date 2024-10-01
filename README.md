@@ -1,2 +1,2 @@
 # excel-challenge
-assignement week 1
+assignment week 1
